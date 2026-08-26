@@ -131,5 +131,7 @@
     "128": { "caption": "VPR-TU" },
     "129": { "caption": "VSAV-TU" },
     "130": { "caption": "COLOSSUS" },
-    "131": { "caption": "MULE" }
+    "131": { "caption": "MULE" },
+    "134": { "caption": "FPTGP" },
+    "133": { "caption": "FSR" }
 }
