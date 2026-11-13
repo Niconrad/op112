@@ -133,5 +133,11 @@
     "130": { "caption": "COLOSSUS" },
     "131": { "caption": "MULE" },
     "134": { "caption": "FPTGP" },
-    "133": { "caption": "FSR" }
+    "133": { "caption": "FSR" },
+    "135": { "caption": "Voiture de patrouille (PM)" },
+    "136": { "caption": "Équipe cynophile (PM)" },
+    "137": { "caption": "VTT (PM)" },
+    "138": { "caption": "Unité motocycliste (PM)" },
+    "139": { "caption": "Scooter (PM)" },
+    "140": { "caption": "Brigade équestre (PM)" }
 }
