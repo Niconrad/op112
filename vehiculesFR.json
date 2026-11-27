@@ -139,5 +139,7 @@
   "137": {"caption": "VTT PM", "minPersonnel": 1, "maxPersonnel": 1},
   "138": {"caption": "Unité motocycliste PM", "minPersonnel": 1, "maxPersonnel": 1},
   "139": {"caption": "Scooter PM", "minPersonnel": 1, "maxPersonnel": 1},
-  "140": {"caption": "Brigade équestre PM", "minPersonnel": 1, "maxPersonnel": 1}
+  "140": {"caption": "Brigade équestre PM", "minPersonnel": 1, "maxPersonnel": 1},
+  "141": {"caption": "Fourgon cellulaire", "minPersonnel": 2, "maxPersonnel": 3},
+  "142": {"caption": "Fourgon de patrouille", "minPersonnel": 3, "maxPersonnel": 6}
 }
